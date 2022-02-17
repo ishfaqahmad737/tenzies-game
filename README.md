@@ -1,3 +1,6 @@
+# Description
+This a tenzies-game which I created from a Learn React for Free course on Srimba by Bob Ziroll
+https://scrimba.com/learn/learnreact/tenzies-project-intro-cof0d44bfad1fb88293fdc9d1
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
